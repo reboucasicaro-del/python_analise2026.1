@@ -12,4 +12,3 @@ while tentativas < max_tentativas:
         tentativas += 1
 else:
     print("Você excedeu o número máximo de tentativas. Acesso bloqueado")
-###

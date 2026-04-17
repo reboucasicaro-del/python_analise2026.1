@@ -8,5 +8,3 @@ while nome != "sair":
     if nome == "sair":
         break # o break só funciona com if
     print(f"Olá {nome}")
-    ###
-    
